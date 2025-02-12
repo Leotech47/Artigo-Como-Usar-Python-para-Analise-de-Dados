@@ -1,9 +1,10 @@
 # Como Usar Python para Análise de Dados 🚀📊🐍
 
-#PITHON
+#Python
 
 ## Resumo 📌📊📢
 A análise de dados tornou-se essencial em diversas áreas, como negócios, finanças, saúde e tecnologia. Python é uma das linguagens mais populares para essa finalidade devido à sua simplicidade, vasto ecossistema de bibliotecas e grande comunidade de suporte. Este artigo explora como utilizar Python para análise de dados, desde a importação até a visualização e interpretação dos resultados, incluindo estudos de caso práticos. 📈📊🧐
+
 
 ---
 
